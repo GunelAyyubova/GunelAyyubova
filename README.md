@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.png" alt="Gunel Ayyubova Banner" width="100%" />
+  <img src="./banner.png.jpg" alt="Gunel Ayyubova Banner" width="100%" />
 </div>
 
 <h2 align="center">✨ Hi, I'm Gunel Ayyubova! ✨</h2>
@@ -11,10 +11,10 @@
 
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" />
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="mailto:gunel.ayyubova.qa@gmail.com">
-    <img src="https://shields.io" />
+    <img src="https://shields.io" alt="Email" />
   </a>
 </p>
 
@@ -24,28 +24,28 @@
 
 **🧪 Testing & Methodologies**
 <p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Manual Testing" />
+  <img src="https://shields.io" alt="Exploratory Testing" />
+  <img src="https://shields.io" alt="FinTech" />
+  <img src="https://shields.io" alt="SDLC" />
 </p>
 
 **🔌 API, Database & Debugging**
 <p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Postman" />
+  <img src="https://shields.io" alt="SQL" />
+  <img src="https://shields.io" alt="DevTools" />
+  <img src="https://shields.io" alt="Charles Proxy" />
+  <img src="https://shields.io" alt="ADB" />
 </p>
 
 **📋 Management, Automation & Version Control**
 <p>
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <img src="https://shields.io" alt="Jira" />
+  <img src="https://shields.io" alt="TestRail" />
+  <img src="https://shields.io" alt="Selenium" />
+  <img src="https://shields.io" alt="Playwright" />
+  <img src="https://shields.io" alt="Git" />
 </p>
 
 ---
