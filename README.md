@@ -10,43 +10,20 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gunel.ayyubova.qa@gmail.com">
-    <img src="https://shields.io" alt="Email" />
-  </a>
+  🔗 <a href="https://linkedin.com" target="_blank"><b>LinkedIn Profile</b></a> &nbsp;•&nbsp;
+  💌 <a href="mailto:gunel.ayyubova.qa@gmail.com"><b>gunel.ayyubova.qa@gmail.com</b></a>
 </p>
 
 ---
 
 ### 🧸 Tech Stack & QA Toolkit
 
-**🧪 Testing & Methodologies**
-<p>
-  <img src="https://shields.io" alt="Manual Testing" />
-  <img src="https://shields.io" alt="Exploratory Testing" />
-  <img src="https://shields.io" alt="FinTech" />
-  <img src="https://shields.io" alt="SDLC" />
-</p>
-
-**🔌 API, Database & Debugging**
-<p>
-  <img src="https://shields.io" alt="Postman" />
-  <img src="https://shields.io" alt="SQL" />
-  <img src="https://shields.io" alt="DevTools" />
-  <img src="https://shields.io" alt="Charles Proxy" />
-  <img src="https://shields.io" alt="ADB" />
-</p>
-
-**📋 Management, Automation & Version Control**
-<p>
-  <img src="https://shields.io" alt="Jira" />
-  <img src="https://shields.io" alt="TestRail" />
-  <img src="https://shields.io" alt="Selenium" />
-  <img src="https://shields.io" alt="Playwright" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| 🧪 **Testing & Methodologies** | `Manual Testing` • `Exploratory Testing` • `FinTech & Payments` • `SDLC / STLC` |
+| 🔌 **API & Database** | `Postman` • `SQL Validation` • `Swagger` • `JSON Validation` |
+| 🔍 **Debugging & Logs** | `Browser DevTools` • `HAR Files` • `Charles Proxy` • `ADB & 3uTools` |
+| 📋 **Management & Automation** | `Jira` • `TestRail` • `Selenium (Basic)` • `Playwright (Learning)` • `Git & GitHub` |
 
 ---
 
